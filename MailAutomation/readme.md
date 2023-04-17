@@ -1,8 +1,4 @@
-# Letter and Email Automation System
-
-This is a java application which helps to generate letter and email for the given set of customers. The content will be formatted based on the given mail template. 
-
-Details are mentioned in the [RequirementDoc](MailAutomation/RequirementDoc.pdf).
+Assignment 3 - Mail Generation Application
 
 This application can be invoked by running the main method in MailGenerationApp.
 It is expecting certain parameters to be passed. Sample usage is given below.
@@ -39,4 +35,5 @@ Examples:
 --csv-file CustomerData/insurance-company-members.csv --letter-template Letters/LetterTemplate1.txt --output-dir Output --letter
 
 --csv-file CustomerData/insurance-company-members.csv --email-template Emails/EmailTemplate1.txt --output-dir Output --email
+
 

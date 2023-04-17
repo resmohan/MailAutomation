@@ -1,0 +1,84 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2708
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;\f1\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+\margl1440\margr1440\vieww18680\viewh10840\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 [[first_name]] [[last_name]]
+\f1\fs24 \
+
+\f0\fs26 [[address]], [[city]],
+\f1\fs24 \
+
+\f0\fs26 [[county]], [[state]], [[zip]]
+\f1\fs24 \
+
+\f0\fs26 ([[email]])\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 Dear [[first_name]] [[last_name]],\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 As you may have heard or read, last month we learned that criminals
+\f1\fs24  
+\f0\fs26 forced their way into our systems, and stole information about our
+\f1\fs24   
+\f0\fs26 customers. Late last week, as part of our ongoing investigation, we
+\f1\fs24  
+\f0\fs26 learned that the taken information includes names, mailing addresses,
+\f1\fs24  
+\f0\fs26 phone numbers or email addresses.\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 I am writing to make you aware that your name, mailing address, phone
+\f1\fs24  
+\f0\fs26 number or email address may have been taken during the intrusion.
+\f1\fs24  
+\f0\fs26 I am truly sorry this incident occurred, and I sincerely regret any
+\f1\fs24  
+\f0\fs26 inconvenience it may cause you.\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 Because we value you as a customer, and because your trust is
+\f1\fs24  i
+\f0\fs26 mportant to us, our company is offering you one year of free credit
+\f1\fs24  
+\f0\fs26 monitoring through Experian\'92s ProtectMyID product, which includes
+\f1\fs24  
+\f0\fs26 identity theft insurance where available. Enclosed please find your
+\f1\fs24  
+\f0\fs26 additional information about your free credit card monitoring.\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 You can find additional information and FAQs about this incident at
+\f1\fs24  o
+\f0\fs26 ur website. If you have further questions, you may call us at 866-852-8680.\
+\pard\pardeftab720\partightenfactor0
+
+\f1\fs24 \cf0 \
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs26 \cf0 Thank you for your patience and your loyalty.\
+\
+Sincerely,
+\f1\fs24 \
+
+\f0\fs26 Insurance Company CEO}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>assignment3.problem1</OriginalElement>
+  <nodes>
+    <node x="512.3022498483394" y="566.8497196560396">assignment3.problem1.CustomerSet</node>
+    <node x="146.72446067641215" y="525.3586515307146">assignment3.problem1.Reader</node>
+    <node x="907.0476841188105" y="731.2045093590646">assignment3.problem1.Template</node>
+    <node x="377.55708366817885" y="68.09066223118452">assignment3.problem1.MailGenerationFactory</node>
+    <node x="1219.0731603358333" y="318.6819202970115">assignment3.problem1.ArgumentValidator</node>
+    <node x="-14.659432054714216" y="782.632712339335">assignment3.problem1.BaseFileReader</node>
+    <node x="131.8198900599809" y="275.82316208278405">assignment3.problem1.Writer</node>
+    <node x="-107.95932733350969" y="470.5369624113682">assignment3.problem1.BaseFileWriter</node>
+    <node x="881.2872846030508" y="350.7957007131299">assignment3.problem1.MailGenerationApp</node>
+    <node x="863.3049335110559" y="-13.954373771567589">assignment3.problem1.Customer</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="assignment3.problem1.BaseFileReader" target="assignment3.problem1.Reader" relationship="REALIZATION">
+      <point x="139.0" y="-115.0" />
+      <point x="-22.383892731126366" y="70.5" />
+    </edge>
+    <edge source="assignment3.problem1.MailGenerationApp" target="assignment3.problem1.ArgumentValidator" relationship="CREATE">
+      <point x="96.50000000000011" y="22.886219583881598" />
+      <point x="-150.0" y="0.0" />
+    </edge>
+    <edge source="assignment3.problem1.CustomerSet" target="assignment3.problem1.Customer" relationship="CREATE">
+      <point x="121.7548338198394" y="-116.0" />
+      <point x="792.0570836681788" y="80.04562622843241" />
+      <point x="-133.5" y="0.0" />
+    </edge>
+    <edge source="assignment3.problem1.Template" target="assignment3.problem1.Customer" relationship="TO_ONE">
+      <point x="-110.49968411881048" y="4.906409354816788E-4" />
+      <point x="858.0" y="869.205" />
+      <point x="858.0" y="301.182" />
+      <point x="996.805" y="301.182" />
+      <point x="6.648894407135231E-5" y="94.00037377156758" />
+    </edge>
+    <edge source="assignment3.problem1.MailGenerationFactory" target="assignment3.problem1.CustomerSet" relationship="CREATE">
+      <point x="94.2451661801606" y="182.0" />
+      <point x="0.0" y="-116.0" />
+    </edge>
+    <edge source="assignment3.problem1.MailGenerationApp" target="assignment3.problem1.MailGenerationFactory" relationship="CREATE">
+      <point x="-96.5" y="0.0" />
+      <point x="198.5" y="138.7050384819454" />
+    </edge>
+    <edge source="assignment3.problem1.ArgumentValidator" target="assignment3.problem1.BaseFileReader" relationship="CREATE">
+      <point x="15.0" y="-93.0" />
+      <point x="15.0" y="126.0" />
+    </edge>
+    <edge source="assignment3.problem1.MailGenerationFactory" target="assignment3.problem1.BaseFileWriter" relationship="CREATE">
+      <point x="0.0" y="182.0" />
+      <point x="576.0570836681788" y="497.1819202970115" />
+      <point x="96.0" y="-77.3550421143567" />
+    </edge>
+    <edge source="assignment3.problem1.MailGenerationFactory" target="assignment3.problem1.Template" relationship="CREATE">
+      <point x="-81.2548338198394" y="182.0" />
+      <point x="494.80224984833944" y="884.205" />
+      <point x="-110.5" y="15.000490640935482" />
+    </edge>
+    <edge source="assignment3.problem1.BaseFileWriter" target="assignment3.problem1.Writer" relationship="REALIZATION">
+      <point x="0.0" y="-104.0" />
+      <point x="-11.959327333509691" y="335.32316208278405" />
+      <point x="-92.5" y="0.0" />
+    </edge>
+    <edge source="assignment3.problem1.MailGenerationFactory" target="assignment3.problem1.BaseFileReader" relationship="CREATE">
+      <point x="-198.5" y="0.0" />
+      <point x="-125.45932733350969" y="250.09066223118452" />
+      <point x="-125.45932733350969" y="897.632712339335" />
+      <point x="-146.5" y="0.0" />
+    </edge>
+    <edge source="assignment3.problem1.CustomerSet" target="assignment3.problem1.Customer" relationship="TO_MANY">
+      <point x="157.99975015166058" y="2.8034396041221044E-4" />
+      <point x="858.0" y="682.85" />
+      <point x="858.0" y="301.182" />
+      <point x="996.805" y="301.182" />
+      <point x="6.648894407135231E-5" y="94.00037377156758" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="0.7550335570469798" showDependencies="true" x="644.8533333333335" y="560.7422222222223" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
